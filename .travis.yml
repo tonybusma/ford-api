@@ -16,6 +16,6 @@ deploy:
   provider: heroku
   skip_cleanup: true
   api_key:
-    secure: $HEROKU_API_KEY
+    secure: uKVsUtiqHIRabKyDPejqnf4KYP2QuYjXcFVy14Dq7w8majBqTFL5DLnvkijNoZby40jR5speadDllIvn5ydHhBLQzVlYHZLhkIaz5/XiapnXKGgnLJghNYqgrmburO+v3ft+ywNb1VB5QLOuOZCqkSOVCnUSBu+OHaoz9GJqC4w52bm84hq6cgKZeI0rNEZwWSym78ybLTCjWXbBI+dr0TCy0dq3l/E2GMh7DaMp2t1RW/FNVR+0iK7+/RpYxHuVmRLf5MWctwVDxbFrMkPEYc4GzS71riVO6VDkBUZTq1WawYzCuXtpGskfoq7qmGplgwvcJgenREnHpxLNm3NkYJSYwc2bcjNftJ0HO410cQiShHHxj5/W1dGyxj9sYZXg39V5o1AKtpkmETpl4BSDU0z9R1530w3jlP3BoVRCbPTRcCy4zkGtZjQO0DlyG0D7AbHe8/M/4GrDizoau8pj0+mj02fUDE/RuWqS+XDCY90zoM6TC5+Xtg4aSN8nOxA+vq7Sp+9/XROd8Q1W0s0ex2r/WBgnIjmuOH9UDLniMTO7FvJpribvRWKhQPau+KAjia6q5LFob55L4Mvpacz0Zx1H28bOhBi8HWmVmNpJeDt+276pvaiWCma42/kdMgwYzVuFdj5SxYHHUuRENaLO33+aQ1rrcVTMnqBHrv0SyO0=
   app: ford-api-seunome
   edge: true
