@@ -15,6 +15,6 @@ deploy:
 provider: heroku
 skip_cleanup: true
 api_key:
-secure: $HEROKU_API_KEY
+secure: 48b3ee8e-a99b-4f6a-a6c2-d3be64fa0866
 app: ford-api-luisantoniobusma
 edge: true
