@@ -9,12 +9,12 @@ describe('Teste da API Ford', function() {
         done();
       });
      });
-   // it('Status', function(done) {
-   //  request("http://localhost:3000", function(err, res, body) { 
-   //  expect(res.statusCode).to.equal(404);   
-   //   done();
-  //  });
-  // });
+    it('Status', function(done) {
+     request("http://localhost:3000", function(err, res, body) { 
+     expect(res.statusCode).to.equal(404);   
+      done();
+   });
+   });
   
     });
    });
